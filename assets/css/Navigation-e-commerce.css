@@ -190,7 +190,7 @@ nav ul ul ul {
   .mainmenu .collapse ul ul ul ul {
     position: absolute;
     top: 0;
-    left: -100%;
+    left: 100%;
     min-width: 250px;
     display: none;
     z-index: 1;
